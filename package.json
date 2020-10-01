@@ -1,0 +1,9 @@
+{
+  "name": "@gustavoedny/real-coin-price",
+  "version": "1.0.0",
+  "description": "A simple function that gets the real price of any coin given a fraction of that coin, and the purchased value.",
+  "main": "index.js",
+  "repository": "git@github.com:GustavoEdny/real-coin-price.git",
+  "author": "Gustavo Edny <gustavoedny@gmail.com>",
+  "license": "MIT"
+}
